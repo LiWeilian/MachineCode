@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chapter01.08.03_dllload", "chapter01.08.03_dllload\chapter01.08.03_dllload.vcxproj", "{EC103560-0D21-4200-BF91-71A50170ABA0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chapter01.08.03_dll_relocation", "chapter01.08.03_dll_relocation\chapter01.08.03_dll_relocation.vcxproj", "{4CFFF964-90FE-461B-9F71-F78F5728EDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC103560-0D21-4200-BF91-71A50170ABA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC103560-0D21-4200-BF91-71A50170ABA0}.Debug|Win32.Build.0 = Debug|Win32
+		{EC103560-0D21-4200-BF91-71A50170ABA0}.Release|Win32.ActiveCfg = Release|Win32
+		{EC103560-0D21-4200-BF91-71A50170ABA0}.Release|Win32.Build.0 = Release|Win32
+		{4CFFF964-90FE-461B-9F71-F78F5728EDEC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4CFFF964-90FE-461B-9F71-F78F5728EDEC}.Debug|Win32.Build.0 = Debug|Win32
+		{4CFFF964-90FE-461B-9F71-F78F5728EDEC}.Release|Win32.ActiveCfg = Release|Win32
+		{4CFFF964-90FE-461B-9F71-F78F5728EDEC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

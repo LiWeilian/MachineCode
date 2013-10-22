@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chapter01.04.01struct", "chapter01.04.01struct\chapter01.04.01struct.vcxproj", "{72EEDCF9-671C-43D0-B4E6-34127C0116AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EEDCF9-671C-43D0-B4E6-34127C0116AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72EEDCF9-671C-43D0-B4E6-34127C0116AA}.Debug|Win32.Build.0 = Debug|Win32
+		{72EEDCF9-671C-43D0-B4E6-34127C0116AA}.Release|Win32.ActiveCfg = Release|Win32
+		{72EEDCF9-671C-43D0-B4E6-34127C0116AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
